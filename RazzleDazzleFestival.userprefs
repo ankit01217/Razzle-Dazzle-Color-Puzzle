@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../WebviewTest/Assets/UniWebView/Demo/1.Basic/TopSceneManager.cs">
+    <Files>
+      <File FileName="../WebviewTest/Assets/UniWebView/Script/UniWebView.cs" Line="1" Column="1" />
+      <File FileName="../WebviewTest/Assets/UniWebView/Demo/1.Basic/TopSceneManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

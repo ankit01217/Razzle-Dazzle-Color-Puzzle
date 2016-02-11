@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PuzzleTracker.cs">
+    <Files>
+      <File FileName="Assets\ParticleManager.cs" Line="62" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="241" Column="39" />
+      <File FileName="Assets\Scripts\PuzzleTracker.cs" Line="138" Column="1" />
+      <File FileName="Assets\Scripts\Puzzle.cs" Line="241" Column="4" />
+      <File FileName="Assets\PSMove\PSMoveExample.cs" Line="134" Column="124" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
